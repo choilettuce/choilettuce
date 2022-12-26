@@ -1,7 +1,5 @@
 
 
-### Hi there 👋
-
 <!--
 **choilettuce/choilettuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h3>  </h3>
-  <p> Hi, There! I'm a front-end web developer. </p>
+  <h3> Hi there I'm sanghoon </h3>
+  <p> I'm a front-end web developer. </p>
 </div>
