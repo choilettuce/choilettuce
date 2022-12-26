@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/-javasciprt-brightgreen
+<div align="center">
+  <h3>  </h3>
+  <p> Hi, There! I'm a front-end web developer. </p>
+</div>
