@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h3> Hi there I'm sanghoon </h3>
   <p> I'm a front-end web developer. </p>
  
-  
+<br/>
 ## 🛠 &nbsp; Technical Skills
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img alt="material-ui" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 </p>
+<br/>
 
 ## ⚒️ Tools
 <p align="center">
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
   
 </p>
   
- 
+<br/>
 ## 😄Blog
   
   <p align="center">
