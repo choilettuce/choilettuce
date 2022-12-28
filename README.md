@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 😄Blog
   <p align="center">
     <a href="https://lettuce36.tistory.com/"> 
-      <img alt="Tistory" src="https://img.shields.io/badge/Tistory-F24E1E?style=flat-square&logo=Tistory&logoColor=white"></a>
+      <img alt="Tistory" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
   </p>
   
   </div>
