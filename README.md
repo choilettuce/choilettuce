@@ -25,15 +25,12 @@ Here are some ideas to get you started:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-</p>
-<p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white">
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
 
 #
-### ⚒️ Tools ⚒️
+### ⚒️ Tools
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
