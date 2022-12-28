@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white">
+  
 </p>
 
 #
@@ -36,5 +37,6 @@ Here are some ideas to get you started:
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
+  <img alt="React"src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white">
 </p>
 
