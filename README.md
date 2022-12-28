@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   
 </p>
 
