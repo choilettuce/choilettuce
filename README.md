@@ -34,14 +34,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-</p>
-<p align="center">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white">
-</p>
-<p align="center">
-
-
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
 </p>
