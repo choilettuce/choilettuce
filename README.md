@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img alt="Socekt.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white">
   <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white">
   <img alt="material-ui" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/MUI-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 </p>
 
 #
