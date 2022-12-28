@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <p> I'm a front-end web developer. </p>
  
 <br/>
+  
 ## 🛠 &nbsp; Technical Skills
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
