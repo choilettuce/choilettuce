@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img alt="Socekt.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white">
   <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white">
+  <br/>
+  <img alt="material-ui" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
 </p>
 
 #
