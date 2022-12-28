@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -47,4 +47,13 @@ Here are some ideas to get you started:
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   
 </p>
+  
+ 
+### 😄Blog
+  
+  <p align="center">
+    <a href="https://lettuce36.tistory.com/"> 
+      <img alt="Tistory" src="https://img.shields.io/badge/Tistory-F24E1E?style=flat-square&logo=Tistory&logoColor=white"></a>
+  </p>
+    
 
