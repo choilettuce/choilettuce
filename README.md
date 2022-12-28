@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> Hi there I'm sanghoon </h3>
   <p> I'm a front-end web developer. </p>
- </div>
+ 
   
 ## 🛠 &nbsp; Technical Skills
 <p align="center">
@@ -55,5 +55,7 @@ Here are some ideas to get you started:
     <a href="https://lettuce36.tistory.com/"> 
       <img alt="Tistory" src="https://img.shields.io/badge/Tistory-F24E1E?style=flat-square&logo=Tistory&logoColor=white"></a>
   </p>
+  
+  </div>
     
 
