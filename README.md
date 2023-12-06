@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h3> Hi there I'm sanghoon </h3>
-  <p> I'm a front-end web developer. </p>
+  <h3> Hi there I'm sanghoon </h3>.
+  <p> I'm a front-end web developer. I want to be a developer who values communication and collaboration. </p>
  
 <br/>
   
