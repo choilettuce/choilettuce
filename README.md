@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img alt="material-ui" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 </br>
- <img alt="Python" src="https://img.shields.io/badge/pyton-#3776AB?style=flat-square&logo=Python&logoColor=yellow">
+ <img alt="Python" src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=yellow">
 <br/>
 
 ## ⚒️ Tools
